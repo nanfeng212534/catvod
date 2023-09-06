@@ -5,81 +5,81 @@
         "key": "爱上你听书网",
         "name": "有声书网",
         "type": 3,
-        "api": "assets://js/230ts_open.js"
+        "api": "./230ts_open.js"
     }, 
 	{
         "key": "素白白",
         "name": "素白影视",
         "type": 3,
-        "api": "assets://js/subaibai_open.js"
+        "api": "./subaibai_open.js"
     }, 
 	{
         "key": "我的哔哩",
         "name": "哔哩哔哩",
         "type": 3,
-        "api": "assets://js/mybili_open.js"
+        "api": "./mybili_open.js"
     }, 
 	{
         "key": "ikanbot",
         "name": "爱看影视",
         "type": 3,
-        "api": "assets://js/ikanbot_open.js"
+        "api": "./ikanbot_open.js"
     }, 
 	{
         "key": "kunyu77",
         "name": "酷云七七",
         "type": 3,
-        "api": "assets://js/kunyu77_open.js"
+        "api": "./kunyu77_open.js"
    },
    {
         "key": "czzy",
         "name": "厂长资源",
         "type": 3,
-        "api": "assets://js/czzy_open.js"
+        "api": "./czzy_open.js"
    },
    {
         "key": "kkys",
         "name": "快看影视",
         "type": 3,
-        "api": "assets://js/kkys_open.js"
+        "api": "a./kkys_open.js"
     },
     {
         "key": "wogg",
         "name": "玩偶哥哥",
         "type": 3,
-        "api": "assets://js/wogg_open.js",
+        "api": "./wogg_open.js",
         "ext": "输入阿里token"
    }, 
     {
         "key": "duboku",
         "name": "独播影库",
         "type": 3,
-        "api": "assets://js/duboku_open.js"
+        "api": "./duboku_open.js"
     }, 	
     {
         "key": "南瓜影视",
         "name": "南瓜影视",
         "type": 3,
-        "api": "assets://js/ng_open.js"
+        "api": "./ng_open.js"
     }, 	
    {
         "key": "nivod",
         "name": "泥巴影视",
         "type": 3,
-        "api": "assets://js/nivod_open.js",
+        "api": "./nivod_open.js",
         "ext": "888解忧愁"
     }, 
     {
         "key": "mtsp",
         "name": "蜜桃视频",
         "type": 3,
-        "api": "assets://js/mtsp_open.js"
+        "api": "./mtsp_open.js"
      },
      {
         "key": "18av",
         "name": "成人视频",
         "type": 3,
-        "api": "assets://js/18av_open.js"
+        "api": "./18av_open.js"
      }	
     ]
   },
